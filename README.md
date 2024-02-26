@@ -1,5 +1,8 @@
 # Project: Spring Social media blog API
 
+## Project Brief
+This is a project completed in a recent bootcamp. Below is the project description
+
 ## Background 
 
 Full-stack applications are typically concerned with both a front end, that displays information to the user and takes in input, and a backend, that manages persisted information.
